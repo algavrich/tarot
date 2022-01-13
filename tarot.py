@@ -36,19 +36,19 @@ deck = {
 	33: {"name": "Knight of Cups", "meaning": {"Upright": "Creativity, Romance, Charm, Imagination, Beauty", "Reversed": "Overactive Imagination, Unrealistic, Jealous, Moody"}}
 	34: {"name": "Queen of Cups", "meaning": {"Upright": "Compassionate, Caring, Emotionally Stable, Intuitive, In Flow", "Reversed": "Inner Feelings, Self Care, Self Love, Co-Dependancy"}}
 	35: {"name": "King of Cups", "meaning": {"Upright": "Emotionally Balanced, Compassionate, Diplomatic", "Reversed": "Self Compassion, Inner Feelings, Moodiness, Emotionally Manipulative"}}
-	36:
-	37:
-	38:
-	39:
-	40:
-	41:
-	42:
-	43:
-	44:
-	45:
-	46:
-	47:
-	48:
-	49:
+	36: {"name": "Ace of Swords", "meaning": {"Upright": "Breakthroughs, New Ideas, Mental Clarity, Success", "Reversed": "Inner Clarity, Re-Thinking an Idea, Clouded Judgement"}}
+	37: {"name": "Two of Swords", "meaning": {"Upright": "Difficult Decisions, Weighing up Options, An Impasse, Avoidance", "Reversed": "Indecision, Confusion, Information Overload, Stalemate"}}
+	38: {"name": "Three of Swords", "meaning": {"Upright": "Heartbreak, Emotional Pain, Sorrow, Grief, Hurt", "Reversed": "Negative Self Talk, Releasing Pain, Optimism, Forgiveness"}}
+	39: {"name": "Four of Swords", "meaning": {"Upright": "Rest, Relaxation, Meditation, Contemplation, Recuperation", "Reversed": "Exhaustion, Burnout, Deep Contemplation, Stagnation"}}
+	40: {"name": "Five of Swords", "meaning": {"Upright": "Conflict, Disagreements, Competition, Defeat, Winning at All Costs", "Reversed": "Reconciliation, Making Amends, Past Resentment"}}
+	41: {"name": "Six of Swords", "meaning": {"Upright": "Transition, Change, Rite of Passage, Releasing Baggage", "Reversed": "Personal Transition, Resistance to Change, Unfinished Business"}}
+	42: {"name": "Seven of Swords", "meaning": {"Upright": "Betrayal, Deception, Getting Away with Something, Acting Strategically", "Reversed": "Imposter Syndrome, Self Deceit, Keeping Secrets"}}
+	43: {"name": "Eight of Swords", "meaning": {"Upright": "Negative Thoughts, Self Imposed Restriction, Imprisonment, Victim Mentality", "Reversed": "Self Limiting Beliefs, Inner Critic, Releasing Negative Thoughts, Open to New Perspectives"}}
+	44: {"name": "Nine of Swords", "meaning": {"Upright": "Anxiety, Worry, Fear, Depression, Nightmares", "Reversed": "Inner Turmoil, Deep Seated Fears, Secrets, Releasing Worry"}}
+	45: {"name": "Ten of Swords", "meaning": {"Upright": "Painful Endings, Deep Wounds, Betrayal, Loss, Crisis", "Reversed": "Recovery, Regeneration, Resisting an Inevitable End"}}
+	46: {"name": "Page of Swords", "meaning": {"Upright": "New Ideas, Curiosity, Thirst for Knowledge, New Ways of Communicating", "Reversed": "Self Expression, All Talk and No Action, Haphazard Action, Haste"}}
+	47: {"name": "Knight of Swords", "meaning": {"Upright": "Ambitious, Action Oriented, Driven to Succeed, Fast Thinking", "Reversed": "Restless, Unfocused, Impulsive, Burnout"}}
+	48: {"name": "Queen of Swords", "meaning": {"Upright": "Independent, Unbiased Judgement, Clear Boundaries, Direct Communication", "Reversed": "Overly Emotional, Easily Influenced, Bitchy, Cold Hearted"}}
+	49: {"name": "King of Swords", "meaning": {"Upright": "Mental Clarity, Intellectual Power, Authority, Truth", "Reversed": "Quiet Power, Inner Truth, Misuse of Power, Manipulation"}}
 	50:
 }
