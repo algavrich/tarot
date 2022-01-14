@@ -50,5 +50,32 @@ deck = {
 	47: {"name": "Knight of Swords", "meaning": {"Upright": "Ambitious, Action Oriented, Driven to Succeed, Fast Thinking", "Reversed": "Restless, Unfocused, Impulsive, Burnout"}}
 	48: {"name": "Queen of Swords", "meaning": {"Upright": "Independent, Unbiased Judgement, Clear Boundaries, Direct Communication", "Reversed": "Overly Emotional, Easily Influenced, Bitchy, Cold Hearted"}}
 	49: {"name": "King of Swords", "meaning": {"Upright": "Mental Clarity, Intellectual Power, Authority, Truth", "Reversed": "Quiet Power, Inner Truth, Misuse of Power, Manipulation"}}
-	50:
+	50: {"name": "Ace of Pentacles", "meaning": {"Upright": "A New Financial or Career Opportunity, Manifestation, Abundance", "Reversed": "Lost Opportunity, Lack of Planning and Foresight"}}
+	51: {"name": "Two of Pentacles", "meaning": {"Upright": "Multiple Priorities, Time Management, Prioritisation, Adaptability", "Reversed": "Over Committed, Disorganization, Reprioritisation"}}
+	52: {"name": "Three of Pentacles", "meaning": {"Upright": "Teamwork, Collaboration, Learning, Implementation", "Reversed": "Disharmony, Misalignment, Working Alone"}}
+	53: {"name": "Four of Pentacles", "meaning": {"Upright": "Saving Money, Security, Conservatism, Scarcity, Control", "Reversed": "Over Spending, Greed, Self Protection"}}
+	54: {"name": "Five of Pentacles", "meaning": {"Upright": "Financial Loss, Poverty, Lack Mindset, Isolation, Worry", "Reversed": "Recovery from Financial Loss, Spiritual Poverty"}}
+	55: {"name": "Six of Pentacles", "meaning": {"Upright": "Giving, Receiving, Sharing Wealth, Generosity, Charity", "Reversed": "Self Care, Unpaid Debts, One Sided Charity"}}
+	56: {"name": "Seven of Pentacles", "meaning": {"Upright": "Long Term View, Sustainable Results, Perseverance, Investment", "Reversed": "Lack of Long Term Vision, Limited Success or Reward"}}
+	57: {"name": "Eight of Pentacles", "meaning": {"Upright": "Apprenticeship, Repetitive Tasks, Mastery, Skill Development", "Reversed": "Self Development, Perfectionism, Misdirected Activity"}}
+	58: {"name": "Nine of Pentacles", "meaning": {"Upright": "Abundance, Luxury, Self Sufficiency, Financial Independence", "Reversed": "Self Worth, Over Investment in Work, Hustling"}}
+	59: {"name": "Ten of Pentacles", "meaning": {"Upright": "Wealth, Financial Security, Family, Long Term Success, Contribution", "Reversed": "The Dark Side of Wealth, Financial Failure or Loss"}}
+	60: {"name": "Page of Pentacles", "meaning": {"Upright": "Manifestation, Financial Opportunity, Skill Development", "Reversed": "Lack of Progress, Procrastination, Learn from Failure"}}
+	61: {"name": "Knight of Pentacles", "meaning": {"Upright": "Hard Work, Productivity, Routine, Conservatism", "Reversed": "Self Discipline, Boredom, Feeling Stuck, Perfectionism"}}
+	62: {"name": "Queen of Pentacles", "meaning": {"Upright": "Nurturing, Practical, Providing Financially, A Working Parent", "Reversed": "Financial Independence, Self Care, Work-Home Conflict"}}
+	63: {"name": "King of Pentacles", "meaning": {"Upright": "Wealth, Business, Leadership, Security, Discipline, Abundance", "Reversed": "Financially Inept, Obsessed with Wealth and Status, Stubborn"}}
+	64: {"name": "Ace of Wands", "meaning": {"Upright": "Inspiration, New Opportunities, Growth, Potential", "Reversed": "An Emerging Idea, Lack of Direction, Distractions, Delays"}}
+	65: {"name": "Two of Wands", "meaning": {"Upright": "Future Planning, Progress, Decisions, Discovery", "Reversed": "Personal Goals, Inner Alignment, Fear of Unknown, Lack of Planning"}}
+	66: {"name": "Three of Wands", "meaning": {"Upright": "Progress, Expansion, Foresight, Overseas Opportunities", "Reversed": "Playing Small, Lack of Foresight, Unexpected Delays"}}
+	67: {"name": "Four of Wands", "meaning": {"Upright": "Celebration, Joy, Harmony, Relaxation, Homecoming", "Reversed": "Personal Celebration, Inner Harmony, Conflict with Others, Transition"}}
+	68: {"name": "Five of Wands", "meaning": {"Upright": "Conflict, Disagreements, Competition, Tension, Diversity", "Reversed": "Inner Conflict, Conflict Avoidance, Tension Release"}}
+	69: {"name": "Six of Wands", "meaning": {"Upright": "Success, Public Recognition, Progress, Self Confidance", "Reversed": "Private Achievement, Personal Definition of Success, Fall from Grace, Egotism"}}
+	70: {"name": "Seven of Wands", "meaning": {"Upright": "Challenge, Competition, Protection, Perseverance", "Reversed": "Exhaustion, Giving Up, Overwhelmed"}}
+	71: {"name": "Eight of Wands", "meaning": {"Upright": "Movement, Fast Paced Change, Action, Alignment, Air Travel", "Reversed": "Delays, Frustration, Resisting Change, Internal Alignment"}}
+	72: {"name": "Nine of Wands", "meaning": {"Upright": "Resilience, Courage, Persistance, Test of Faith, Boundaries", "Reversed": "Inner Resources, Struggle, Overwhelm, Defensive, Paranoia"}}
+	73: {"name": "Ten of Wands", "meaning": {"Upright": "Burden, Extra Responsibility, Hard Work, Completion", "Reversed": "Doing It All, Carrying the Burden, Delegation, Release"}}
+	74: {"name": "Page of Wands", "meaning": {"Upright": "Inspiration, Ideas, Discovery, Limitless Potential, Free Spirit", "Reversed": "Newly Formed Ideas, Redirecting Energy, Self Limiting Beliefs, A Spiritual Path"}}
+	75: {"name": "Knight of Wands", "meaning": {"Upright": "Energy, Passion, Inspired Action, Adventure, Impulsiveness", "Reversed": "Passion Project, Haste, Scattered Energy, Delays, Frustration"}}
+	76: {"name": "Queen of Wands", "meaning": {"Upright": "Courage, Confidence, Independence, Social Butterfly, Determination", "Reversed": "Self Respect, Self Confidence, Introverted, Re-Establish Sense of Self"}}
+	77: {"name": "King of Wands", "meaning": {"Upright": "Natural Born Leader, Vision, Entrepreneur, Honour", "Reversed": "Impulsiveness, Haste, Ruthless, High Expectations"}}
 }
