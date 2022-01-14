@@ -88,7 +88,29 @@ def three_card_spread():
 		is_user_ready = input("Are You Ready for Your Reading? Y or N  ")
 		if is_user_ready.lower() == "y":
 			ready = True
-		
 	
+	positions = ["Upright", "Reversed"]
+
+	card1 = random.randint(0, 77)
+	card1_name = deck[card1]["name"]
+	card1_pos = random.choice(positions)
+	card1_reading = deck[card1]["meaning"][card1_pos]
+
+	card2 = random.randint(0, 77)
+	card2_name = deck[card2]["name"]
+	card2_pos = random.choice(positions)
+	card2_reading = deck[card2]["meaning"][card2_pos]
+
+	card3 = random.randint(0, 77)
+	card3_name = deck[card3]["name"]
+	card3_pos = random.choice(positions)
+	card3_reading = deck[card3]["meaning"][card3_pos]
+
+	print(" ")
+	print("Your past is " + card1_name + ". The card is " + card1_pos + " which means " + card1_reading + ".")
+	print(" ")
+	print("Your present is " + card2_name + ". The card is " + card2_pos + " which means " + card2_reading + ".")
+	print(" ")
+	print("Your future is " + card3_name + ". The card is " + card3_pos + " which means " + card3_reading + ".")
 
 three_card_spread()
